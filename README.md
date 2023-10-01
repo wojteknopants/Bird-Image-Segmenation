@@ -104,7 +104,8 @@ For a more detailed view, here are the original images, true masks, overlay imag
 5. **First Dip into Production**: This project gave me a taste of what it's like to work on a real-world-like task. It felt different from typical classroom exercises.
 6. **Resourcefulness**: While I leaned heavily on online resources, I recognized the importance of independent problem-solving and gained hands-on experience.
 
-
+## Data source:
+Dataset was sourced from Kaggle: https://www.kaggle.com/datasets/metavision/accurate-birds-shapessegmentation
 ## Setup and Run
 
 1. Clone the repository:
